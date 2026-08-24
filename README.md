@@ -1,10 +1,11 @@
 # PPitStop Planner
 
-**Developers: [oniqq1](https://github.com/oniqq1)**
+**Developers: [oniqq1](https://github.com/oniqq1) , [KostyaTeacher](https://github.com/KostyaTeacher) **
 
 PPitStop Planner is a Windows companion application for **Le Mans Ultimate**. It combines live telemetry uploading, pit-stop strategy planning, an in-game overlay, local consumption history, and remote access through the PPitStop Planner website.
 
 Releases and downloads: [PPitStopPlanner-releases](https://github.com/oniqq1/PPitStopPlanner-releases/releases)
+
 
 ## Features
 
@@ -197,7 +198,7 @@ The application checks for new versions through GitHub Releases. Updates replace
 
 # PPitStop Planner — українська версія
 
-**Розробник: [oniqq1](https://github.com/oniqq1)**
+**Розробники: [oniqq1](https://github.com/oniqq1) , [KostyaTeacher](https://github.com/KostyaTeacher) **
 
 PPitStop Planner — це Windows-застосунок-компаньйон для **Le Mans Ultimate**. Він поєднує передачу live-телеметрії, планування піт-стопів, ігровий оверлей, локальну історію витрати ресурсів та віддалений доступ через сайт PPitStop Planner.
 
