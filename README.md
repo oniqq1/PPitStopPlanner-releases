@@ -183,13 +183,11 @@ User data is not overwritten by application updates.
 The application checks for new versions through GitHub Releases. Updates replace program files only and preserve local settings, personal consumption history, and track data.
 
 
-
-
-
-
+/n
+/n
 ---
-
-
+/n
+/n
 
 
 
