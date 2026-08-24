@@ -4,7 +4,7 @@
 
 PPitStop Planner is a Windows companion application for **Le Mans Ultimate**. It combines live telemetry uploading, pit-stop strategy planning, an in-game overlay, local consumption history, and remote access through the PPitStop Planner website.
 
-Releases and downloads: [PPitStopPlanner-releases](https://github.com/oniqq1/PPitStopPlanner-releases](https://github.com/oniqq1/PPitStopPlanner-releases/releases))
+Releases and downloads: [PPitStopPlanner-releases](https://github.com/oniqq1/PPitStopPlanner-releases/releases)
 
 ## Features
 
