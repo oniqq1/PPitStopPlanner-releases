@@ -182,7 +182,18 @@ User data is not overwritten by application updates.
 
 The application checks for new versions through GitHub Releases. Updates replace program files only and preserve local settings, personal consumption history, and track data.
 
+
+
+
+
+
 ---
+
+
+
+
+
+
 
 # PPitStop Planner — українська версія
 
@@ -190,7 +201,7 @@ The application checks for new versions through GitHub Releases. Updates replace
 
 PPitStop Planner — це Windows-застосунок-компаньйон для **Le Mans Ultimate**. Він поєднує передачу live-телеметрії, планування піт-стопів, ігровий оверлей, локальну історію витрати ресурсів та віддалений доступ через сайт PPitStop Planner.
 
-Релізи та завантаження: [PPitStopPlanner-releases](https://github.com/oniqq1/PPitStopPlanner-releases)
+Релізи та завантаження: [PPitStopPlanner-releases](https://github.com/oniqq1/PPitStopPlanner-releases/releases)
 
 ## Функціонал
 
