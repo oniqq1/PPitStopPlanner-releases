@@ -185,7 +185,9 @@ The application checks for new versions through GitHub Releases. Updates replace
 
 <br>
 <br>
+
 ---
+
 <br>
 <br>
 
